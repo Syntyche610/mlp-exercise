@@ -1,0 +1,70 @@
+{
+  "personal": {
+    "first_name": "string",
+    "last_name": "string",
+    "headline": "string",
+    "email": "string",
+    "phone": "string",
+    "location": "string"
+  },
+
+  "experience": [
+    {
+      "company": "string",
+      "role": "string",
+      "start": "string",
+      "end": "string",
+      "raw_title_line": "string"
+    }
+  ],
+
+  "education": [
+    {
+      "school": "string",
+      "degree": "string",
+      "start": "string",
+      "end": "string",
+      "raw_title_line": "string"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "string",
+      "description": "string"
+    }
+  ],
+
+  "skills": [
+    {
+      "normalized": "string",
+      "category": "string"
+    }
+  ],
+
+  "soft_skills": ["string", "..."],
+
+  "quality": {
+    "completeness_score": 0.0,
+
+    "fields_missing": ["string", "..."],
+
+    "field_confidence": {
+      "name": 0.0,
+      "headline": 0.0,
+      "email": 0.0,
+      "phone": 0.0,
+      "location": 0.0,
+      "experience": 0.0,
+      "education": 0.0,
+      "skills": 0.0
+    }
+  },
+
+  "meta": {
+    "language": "string",
+    "strategy_used": "string",
+    "overall_candidate_score": 0.0,
+    "profile_family": "string"
+  }
+}
