@@ -1,0 +1,58 @@
+{
+    "personal": {
+        "first_name": "Personal",
+        "last_name": "Information",
+        "headline": "Julian Work experience",
+        "email": null,
+        "phone": [
+            "01.02.2019",
+            "0176 843 21 99",
+            "12.09.1972",
+            "01.05.2019",
+            "30.04.2024",
+            "2015-2017",
+            "01.05.2014",
+            "31.01.2019"
+        ]
+    },
+    "experience": [
+        {
+            "title": "Vocational Education and Training 01.05.2014",
+            "company": "31.01.2019",
+            "date": "BV-BBE",
+            "start_date": null,
+            "end_date": null,
+            "raw_title_line": "Vocational Education and Training 01.05.2014 at 31.01.2019 (BV-BBE)"
+        },
+        {
+            "title": "Schulungs",
+            "company": "und Servicezentrum Vest GmbH",
+            "date": "SuS-Vest",
+            "start_date": null,
+            "end_date": null,
+            "raw_title_line": "Schulungs at und Servicezentrum Vest GmbH (SuS-Vest)"
+        }
+    ],
+    "skills": [
+        "Equipment planning and consulting for institutions of Vocational Personal Information Education and Training and universities",
+        "German-Moroccan Apprentice Partnership",
+        "Renovation and equipment of 5 laboratories for electronic assembly with mple.com the latest technology",
+        "Equipment planning for a new vocational school in Ingelheim am Rhein. Civil Status",
+        "",
+        "Englisch",
+        "French",
+        "MS Office Package",
+        "Change management and targeted staff development of the subsequent drawing and project management management team. software",
+        "Further development of the institution by studying potentials and financial opportunities. Additional",
+        "Coordinating efforts by establishing procurement",
+        "Enrolled at the Chamber of property renovation. Architects North Rhine Westphalia with authorisation to present",
+        "The Bbz-MG is a non profit organisation carried by the members of the building documents since 08/2004 District Crafts Trade Association",
+        "2015-2017 Member of the board",
+        "",
+        "Driving licence for car and plan by studying technological and financial opportunities for the motorcycle shareholders. Schulungs- und Servicezentrum Vest GmbH (SuS-Vest)",
+        "Implementation of the didactic and technical modernisation of training courses in metal construction",
+        "Implementation of the modernisation concept",
+        "Coordinating efforts by establishing procurement",
+        "International activities"
+    ]
+}
