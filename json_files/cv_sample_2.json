@@ -1,0 +1,48 @@
+{
+    "personal": {
+        "first_name": "Renaud",
+        "last_name": "Formation",
+        "headline": null,
+        "email": "mathieu.renaud+cv04@exemple.co",
+        "phone": [
+            "(2023-2026",
+            "(2020-2023",
+            "06 73 51 28 94"
+        ],
+        "location": "Toulouse"
+    },
+    "experience": [],
+    "education": [
+        {
+            "school": "Université Grenoble Alpes",
+            "degree": "IUT1",
+            "date": "2023-2026",
+            "start": null,
+            "end": null,
+            "raw_title_line": "IUT1 - Université Grenoble Alpes (2023-2026)"
+        },
+        {
+            "school": "Pins Justaret",
+            "degree": "télécommunications pour valider Lycée Jean Pierre Vernant",
+            "date": "2020-2023",
+            "start": null,
+            "end": null,
+            "raw_title_line": "télécommunications pour valider Lycée Jean Pierre Vernant - Pins Justaret (2020-2023)"
+        }
+    ],
+    "skills": [],
+    "soft_skills": [
+        "Assidu"
+    ],
+    "quality": {
+        "completness_score": 0.6666666666666666,
+        "fields_missing": [
+            "headline",
+            "experience",
+            "skills"
+        ]
+    },
+    "meta": {
+        "language": "fr"
+    }
+}

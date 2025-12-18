@@ -1,0 +1,29 @@
+{
+    "personal": {
+        "first_name": "KOUASSI",
+        "last_name": "Nanga",
+        "headline": null,
+        "email": "knanga+cv08@exemple.com",
+        "phone": [
+            "0102030405",
+            "0708091011"
+        ],
+        "location": "Anyama"
+    },
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "soft_skills": null,
+    "quality": {
+        "completness_score": 0.5555555555555556,
+        "fields_missing": [
+            "headline",
+            "experience",
+            "education",
+            "skills"
+        ]
+    },
+    "meta": {
+        "language": "fr"
+    }
+}

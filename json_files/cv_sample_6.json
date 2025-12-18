@@ -1,0 +1,43 @@
+{
+    "personal": {
+        "first_name": null,
+        "last_name": null,
+        "headline": null,
+        "email": null,
+        "phone": [
+            "2011-2018",
+            "2018-2020",
+            "2024-2025",
+            "2024-2025",
+            "+225 07 61 24 90 18"
+        ],
+        "location": "Abidjan"
+    },
+    "experience": [],
+    "education": [
+        {
+            "school": "2025 : École normale supérieure d’Abidjan",
+            "degree": "• 2024",
+            "date": "ENS",
+            "start": null,
+            "end": null,
+            "raw_title_line": "• 2024-2025 : École normale supérieure d’Abidjan (ENS)"
+        }
+    ],
+    "skills": [],
+    "soft_skills": null,
+    "quality": {
+        "completness_score": 0.3333333333333333,
+        "fields_missing": [
+            "first_name",
+            "last_name",
+            "headline",
+            "email",
+            "experience",
+            "skills"
+        ]
+    },
+    "meta": {
+        "language": "fr"
+    }
+}
