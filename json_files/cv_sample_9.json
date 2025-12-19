@@ -1,0 +1,43 @@
+{
+    "personal": {
+        "first_name": null,
+        "last_name": null,
+        "headline": null,
+        "email": "abdoul.soro+cv13@exemple.com",
+        "phone": [
+            "+225 07 88 12 45 90"
+        ],
+        "location": "Abidjan"
+    },
+    "experience": [],
+    "education": [],
+    "skills": [
+        {
+            "normalized": "Project Management",
+            "category": "management"
+        },
+        {
+            "normalized": "French",
+            "category": "language"
+        },
+        {
+            "normalized": "English",
+            "category": "language"
+        }
+    ],
+    "soft_skills": [],
+    "quality": {
+        "completness_score": 0.4,
+        "fields_missing": [
+            "first_name",
+            "last_name",
+            "headline",
+            "experience",
+            "education",
+            "soft_skills"
+        ]
+    },
+    "meta": {
+        "language": "fr"
+    }
+}

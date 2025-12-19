@@ -1,0 +1,41 @@
+{
+    "personal": {
+        "first_name": null,
+        "last_name": null,
+        "headline": null,
+        "email": "moise.kouassi+cv12@exemple.com",
+        "phone": [
+            "+225 07 67 21 83 04"
+        ],
+        "location": "Grand-Bassam"
+    },
+    "experience": [],
+    "education": [],
+    "skills": [
+        {
+            "normalized": "Word",
+            "category": "tool"
+        }
+    ],
+    "soft_skills": [
+        "Assidu",
+        "Ponctuel",
+        "Rigoureux",
+        "Respectueux",
+        "Courageux",
+        "Travail en groupe ou individuellement"
+    ],
+    "quality": {
+        "completness_score": 0.5,
+        "fields_missing": [
+            "first_name",
+            "last_name",
+            "headline",
+            "experience",
+            "education"
+        ]
+    },
+    "meta": {
+        "language": "fr"
+    }
+}

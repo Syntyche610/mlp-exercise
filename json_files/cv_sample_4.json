@@ -1,0 +1,37 @@
+{
+    "personal": {
+        "first_name": null,
+        "last_name": null,
+        "headline": null,
+        "email": "idriss.kone+cv06@exemple.com",
+        "phone": [
+            "07 58 31 44 20",
+            "01 09 62 73 15",
+            "07 58 31 44 20",
+            "+225 07 89 40 11 26",
+            "+225 07 80 30 88 41",
+            "+225 07 57 79 12 04",
+            "+225 07 58 68 90 11"
+        ],
+        "location": "Abidjan"
+    },
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "soft_skills": [],
+    "quality": {
+        "completness_score": 0.3,
+        "fields_missing": [
+            "first_name",
+            "last_name",
+            "headline",
+            "experience",
+            "education",
+            "skills",
+            "soft_skills"
+        ]
+    },
+    "meta": {
+        "language": "fr"
+    }
+}

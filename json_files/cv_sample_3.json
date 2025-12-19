@@ -1,0 +1,39 @@
+{
+    "personal": {
+        "first_name": "Personal",
+        "last_name": "Information",
+        "headline": null,
+        "email": null,
+        "phone": [
+            "0176 843 21 990"
+        ],
+        "location": null
+    },
+    "experience": [],
+    "education": [
+        {
+            "school": "und Servicezentrum Vest GmbH",
+            "degree": "Schulungs",
+            "date": "SuS-Vest",
+            "start": null,
+            "end": null,
+            "raw_title_line": "Schulungs- und Servicezentrum Vest GmbH (SuS-Vest), Ossenbergweg 12,"
+        }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "quality": {
+        "completness_score": 0.4,
+        "fields_missing": [
+            "headline",
+            "email",
+            "location",
+            "experience",
+            "skills",
+            "soft_skills"
+        ]
+    },
+    "meta": {
+        "language": "en"
+    }
+}

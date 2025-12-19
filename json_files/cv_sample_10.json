@@ -1,0 +1,36 @@
+{
+    "personal": {
+        "first_name": "Ehouman",
+        "last_name": "Loisirs",
+        "headline": null,
+        "email": null,
+        "phone": [
+            "+225 07 09 33 21 88",
+            "+225 01 23 45 67 89"
+        ],
+        "location": null
+    },
+    "experience": [],
+    "education": [],
+    "skills": [
+        {
+            "normalized": "MS Project",
+            "category": "project_management"
+        }
+    ],
+    "soft_skills": [],
+    "quality": {
+        "completness_score": 0.4,
+        "fields_missing": [
+            "headline",
+            "email",
+            "location",
+            "experience",
+            "education",
+            "soft_skills"
+        ]
+    },
+    "meta": {
+        "language": "fr"
+    }
+}

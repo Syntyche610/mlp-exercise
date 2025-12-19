@@ -1,0 +1,85 @@
+{
+    "personal": {
+        "first_name": "Thomas",
+        "last_name": "Durand",
+        "headline": null,
+        "email": "thomas.durand+cv01@exemple.com",
+        "phone": [
+            "06 22 14 73 90"
+        ],
+        "location": "Lyon"
+    },
+    "experience": [
+        {
+            "title": "Barman",
+            "company": "Ginger Bar, Lyon",
+            "date": "oct. 2024 - janv. 2025",
+            "start_date": null,
+            "end_date": null,
+            "raw_title_line": "Barman — Ginger Bar, Lyon (oct. 2024 - janv. 2025)"
+        },
+        {
+            "title": "Conseiller clientèle porte à porte",
+            "company": "Bouygues Telecom, Toulouse",
+            "date": "sept. 2023 - juin 2024",
+            "start_date": null,
+            "end_date": null,
+            "raw_title_line": "Conseiller clientèle porte à porte — Bouygues Telecom, Toulouse (sept. 2023 - juin 2024)"
+        },
+        {
+            "title": "Conducteur de ligne",
+            "company": "USINE Yeo Frais, Toulouse",
+            "date": "févr. 2023 - mai 2023",
+            "start_date": null,
+            "end_date": null,
+            "raw_title_line": "Conducteur de ligne — USINE Yeo Frais, Toulouse (févr. 2023 - mai 2023)"
+        },
+        {
+            "title": "Agent de tri postale",
+            "company": "Intérim, Toulouse",
+            "date": "févr. 2023 - mai 2023",
+            "start_date": null,
+            "end_date": null,
+            "raw_title_line": "Agent de tri postale — Intérim, Toulouse (févr. 2023 - mai 2023)"
+        },
+        {
+            "title": "Employé polyvalent",
+            "company": "Kurty's burger, Toulouse",
+            "date": "oct. 2022 - janv. 2023",
+            "start_date": null,
+            "end_date": null,
+            "raw_title_line": "Employé polyvalent — Kurty's burger, Toulouse (oct. 2022 - janv. 2023)"
+        },
+        {
+            "title": "Recruteur de donateur",
+            "company": "Ravess France, Lyon",
+            "date": "sept. 2021 - févr. 2022",
+            "start_date": null,
+            "end_date": null,
+            "raw_title_line": "Recruteur de donateur — Ravess France, Lyon (sept. 2021 - févr. 2022)"
+        }
+    ],
+    "education": [
+        {
+            "school": "Lycée Raymond Naves, Toulouse",
+            "degree": "Bac STMG spécialité mercatique",
+            "date": "sept. 2019 - juin 2020",
+            "start": null,
+            "end": null,
+            "raw_title_line": "Bac STMG spécialité mercatique — Lycée Raymond Naves, Toulouse (sept. 2019 - juin 2020)"
+        }
+    ],
+    "skills": [],
+    "soft_skills": [],
+    "quality": {
+        "completness_score": 0.7,
+        "fields_missing": [
+            "headline",
+            "skills",
+            "soft_skills"
+        ]
+    },
+    "meta": {
+        "language": "fr"
+    }
+}
