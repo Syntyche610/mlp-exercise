@@ -11,8 +11,8 @@
     },
     "experience": [
         {
-            "title": "STAR",
             "company": "C Bingerville",
+            "role": "STAR",
             "date": "Janvier 2025",
             "start_date": null,
             "end_date": null,
@@ -23,8 +23,7 @@
     "projects": [
         {
             "name": "Contact",
-            "description": null,
-            "raw_line": "Contact"
+            "description": null
         }
     ],
     "skills": [
