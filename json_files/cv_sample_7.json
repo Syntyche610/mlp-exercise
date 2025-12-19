@@ -20,6 +20,13 @@
         }
     ],
     "education": [],
+    "projects": [
+        {
+            "name": "Contact",
+            "description": null,
+            "raw_line": "Contact"
+        }
+    ],
     "skills": [
         {
             "normalized": "Word",
@@ -40,7 +47,7 @@
     ],
     "soft_skills": [],
     "quality": {
-        "completness_score": 0.7,
+        "completness_score": 0.7272727272727273,
         "fields_missing": [
             "headline",
             "education",
@@ -48,6 +55,7 @@
         ]
     },
     "meta": {
-        "language": "fr"
+        "language": "fr",
+        "strategy_used": "rules+regex_v2_sections"
     }
 }

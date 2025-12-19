@@ -11,6 +11,7 @@
     },
     "experience": [],
     "education": [],
+    "projects": [],
     "skills": [
         {
             "normalized": "Project Management",
@@ -25,19 +26,23 @@
             "category": "language"
         }
     ],
-    "soft_skills": [],
+    "soft_skills": [
+        "Gestion de projet",
+        "Analyse"
+    ],
     "quality": {
-        "completness_score": 0.4,
+        "completness_score": 0.45454545454545453,
         "fields_missing": [
             "first_name",
             "last_name",
             "headline",
             "experience",
             "education",
-            "soft_skills"
+            "projects"
         ]
     },
     "meta": {
-        "language": "fr"
+        "language": "fr",
+        "strategy_used": "rules+regex_v2_sections"
     }
 }

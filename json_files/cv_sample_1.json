@@ -69,17 +69,22 @@
             "raw_title_line": "Bac STMG spécialité mercatique — Lycée Raymond Naves, Toulouse (sept. 2019 - juin 2020)"
         }
     ],
+    "projects": [],
     "skills": [],
-    "soft_skills": [],
+    "soft_skills": [
+        "Organisation",
+        "Relation client"
+    ],
     "quality": {
-        "completness_score": 0.7,
+        "completness_score": 0.7272727272727273,
         "fields_missing": [
             "headline",
-            "skills",
-            "soft_skills"
+            "projects",
+            "skills"
         ]
     },
     "meta": {
-        "language": "fr"
+        "language": "fr",
+        "strategy_used": "rules+regex_v2_sections"
     }
 }

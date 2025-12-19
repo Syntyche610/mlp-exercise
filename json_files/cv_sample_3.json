@@ -20,20 +20,23 @@
             "raw_title_line": "Schulungs- und Servicezentrum Vest GmbH (SuS-Vest), Ossenbergweg 12,"
         }
     ],
+    "projects": [],
     "skills": [],
     "soft_skills": [],
     "quality": {
-        "completness_score": 0.4,
+        "completness_score": 0.36363636363636365,
         "fields_missing": [
             "headline",
             "email",
             "location",
             "experience",
+            "projects",
             "skills",
             "soft_skills"
         ]
     },
     "meta": {
-        "language": "en"
+        "language": "en",
+        "strategy_used": "rules+regex_v2_sections"
     }
 }

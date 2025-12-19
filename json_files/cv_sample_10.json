@@ -12,25 +12,35 @@
     },
     "experience": [],
     "education": [],
+    "projects": [
+        {
+            "name": "Ingénierie d’affaires",
+            "description": null,
+            "raw_line": "Ingénierie d’affaires"
+        }
+    ],
     "skills": [
         {
             "normalized": "MS Project",
             "category": "project_management"
         }
     ],
-    "soft_skills": [],
+    "soft_skills": [
+        "Organisation",
+        "Gestion de projet"
+    ],
     "quality": {
-        "completness_score": 0.4,
+        "completness_score": 0.5454545454545454,
         "fields_missing": [
             "headline",
             "email",
             "location",
             "experience",
-            "education",
-            "soft_skills"
+            "education"
         ]
     },
     "meta": {
-        "language": "fr"
+        "language": "fr",
+        "strategy_used": "rules+regex_v2_sections"
     }
 }

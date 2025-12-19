@@ -11,31 +11,28 @@
     },
     "experience": [],
     "education": [],
+    "projects": [],
     "skills": [
         {
             "normalized": "Word",
             "category": "tool"
         }
     ],
-    "soft_skills": [
-        "Assidu",
-        "Ponctuel",
-        "Rigoureux",
-        "Respectueux",
-        "Courageux",
-        "Travail en groupe ou individuellement"
-    ],
+    "soft_skills": [],
     "quality": {
-        "completness_score": 0.5,
+        "completness_score": 0.36363636363636365,
         "fields_missing": [
             "first_name",
             "last_name",
             "headline",
             "experience",
-            "education"
+            "education",
+            "projects",
+            "soft_skills"
         ]
     },
     "meta": {
-        "language": "fr"
+        "language": "fr",
+        "strategy_used": "rules+regex_v2_sections"
     }
 }

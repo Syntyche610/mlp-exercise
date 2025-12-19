@@ -12,19 +12,23 @@
     },
     "experience": [],
     "education": [],
+    "projects": [],
     "skills": [],
-    "soft_skills": [],
+    "soft_skills": [
+        "Supervision"
+    ],
     "quality": {
-        "completness_score": 0.5,
+        "completness_score": 0.5454545454545454,
         "fields_missing": [
             "headline",
             "experience",
             "education",
-            "skills",
-            "soft_skills"
+            "projects",
+            "skills"
         ]
     },
     "meta": {
-        "language": "fr"
+        "language": "fr",
+        "strategy_used": "rules+regex_v2_sections"
     }
 }

@@ -17,21 +17,24 @@
     },
     "experience": [],
     "education": [],
+    "projects": [],
     "skills": [],
     "soft_skills": [],
     "quality": {
-        "completness_score": 0.3,
+        "completness_score": 0.2727272727272727,
         "fields_missing": [
             "first_name",
             "last_name",
             "headline",
             "experience",
             "education",
+            "projects",
             "skills",
             "soft_skills"
         ]
     },
     "meta": {
-        "language": "fr"
+        "language": "fr",
+        "strategy_used": "rules+regex_v2_sections"
     }
 }
